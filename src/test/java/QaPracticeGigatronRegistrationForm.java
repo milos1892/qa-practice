@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 
-public class GigatronRegistrationForm {
+public class QaPracticeGigatronRegistrationForm {
     WebDriver driver;
     WebDriverWait wait;
 
